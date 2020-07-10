@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "cin_1684v4876878b4894984zas9498498o498864fn849898489i844",
+    "name": "Кинозал",
+    "plane": {
+      "shine": true,
+      "move": true,
+      "heating": true,
+      "ventilation": true,
+      "window": true
+    },
+    "shine": {
+      "_id": "cin_12651516566xk5fsb654451v561xv56z5sv16541z65v41",
+      "name": "Освещение",
+      "bright": 220,
+      "power": 230,
+      "included": true
+    },
+    "move": {
+      "_id": "cin_126515d165xb654451v561xxv56z5sv1a6v541z65v4r1",
+      "name": "Домашнее кино",
+      "temp": 31,
+      "included": false
+    },
+    "heating": {
+      "_id": "cin_1265v151k6566xcv654451v561xv56z5sv16541z65v",
+      "name": "Отопление",
+      "temp": 31,
+      "power": 230,
+      "included": false
+    },
+    "ventilation": {
+      "_id": "cin_126515fd165xb654451v56j1xv56z5sv1654t1z65v41",
+      "name": "Вентиляция",
+      "power": 31,
+      "included": false
+    },
+    "window": {
+      "_id": "cin_12651165xvb64451v61xv56z5sv16541z65v41",
+      "name": "Окно",
+      "open": true,
+      "angle": 45,
+      "brightness": 25
+    }
+  }
+]
